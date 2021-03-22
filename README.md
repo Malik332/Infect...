@@ -39,7 +39,7 @@ Infect is a bash based script which is officially made for termux users and from
 * `git clone https://github.com/Malik332/Infect...`
 * `cd $HOME`
 * `ls`
-* `cd infect...'
+* `cd infect...`
 * `ls`
 * `bash infect.sh`
 ```
