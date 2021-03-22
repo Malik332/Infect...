@@ -116,7 +116,7 @@ echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
-cd $HOME/infect/lol
+cd $HOME/Infect.../update.sh
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
@@ -134,7 +134,7 @@ echo -e "$cyan        click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/infect
+cd $HOME/Infect...
 bash infect.sh ;;
 4)
 sleep 2.0
