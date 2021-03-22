@@ -34,7 +34,7 @@ X🥰 \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$malik 3O$red ◀$rset"
+echo -e "$red                      ▶ Coded by$ malik 3O$red ◀$rset"
 echo -e "$red                     ⫸$ylo  malik hackers$red ⫷$rset"
 echo 
 # Functions
@@ -63,13 +63,13 @@ echo -e "$red               You are going to$grn Infect$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
-cd $HOME/infect.../lol
+cd $HOME/Infect.../infect.sh
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/infect
+cd $HOME/Infect...
 bash infect.sh
 else
 bash sysup.sh
@@ -81,7 +81,7 @@ echo " "
 echo -e "$cyan            click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 fi
-cd $HOME/infect.../
+cd $HOME/Infect.../
 bash infect.sh ;;
 2)echo " "
 echo " "
@@ -90,13 +90,13 @@ echo -e "$red                You are going to$red Save victim$rset "
 echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
-cd $HOME/infect/lol
+cd $HOME/Infect...
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/infect
+cd $HOME/Infect
 bash infect.sh
 else
 bash save.sh
@@ -107,7 +107,7 @@ echo " "
 echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 fi
-cd $HOME/infect
+cd $HOME/Infect
 bash infect.sh ;;
 3)echo " "
 echo " "
@@ -122,7 +122,7 @@ echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/infect
+cd $HOME/Infect
 bash infect.sh
 else
 bash update.sh
@@ -144,7 +144,7 @@ echo -e "$grn
      ____  _  _  ____    ____  _  _  ___
     (  _ \( \/ )( ___)  (  _ \( \/ )( ___)
      ) _ < \  /  )__)    ) _ < \  /  )__)
-    (____/ (__) (____)  (____/ (__) (____)...$cyan have a awesome day$rset"
+    (____/ (__) (____)  (____/ (__) (____)...$cyan have a awesome day don't forget to follow me on Instagram malik_atiquz_.zaman$rset"
 
 echo " "
 echo " "
