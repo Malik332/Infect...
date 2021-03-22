@@ -69,7 +69,7 @@ echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue clic
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/Infect...
+cd $HOME/Infect.../
 bash infect.sh
 else
 bash sysup.sh
@@ -96,7 +96,7 @@ echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/Infect
+cd $HOME/Infect...
 bash infect.sh
 else
 bash save.sh
@@ -107,7 +107,7 @@ echo " "
 echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 fi
-cd $HOME/Infect
+cd $HOME/Infect...
 bash infect.sh ;;
 3)echo " "
 echo " "
@@ -122,7 +122,7 @@ echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/Infect
+cd $HOME/Infect...
 bash infect.sh
 else
 bash update.sh
