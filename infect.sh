@@ -30,15 +30,15 @@ X🥰 \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%🥰,.@            
                      @#%,.@      @#%,.@             
                        @#🥰.,@  @#%,.@              
-                         malik hackers....
+                         malik hackers
 '|lolcat
 echo " " 
 
 echo -e "$red                      ▶ Coded by$ malik 3O$red ◀$rset"
-echo -e "$red                     ⫸$ylo  malik hackers$red ⫷$rset"
+echo -e "$red                       ⫸$ylo  malik hackers$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                   [Infect them with fun]$rset"
+echo -e "$red                     [Infect them with fun]$rset"
 echo " "
 echo " "
 echo -e "$grn              ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
